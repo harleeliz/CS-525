@@ -20,7 +20,7 @@ Any one of the following textbooks is sufficient for this course:
 
 | Folder/Path   | Description                                           |
 |---------------|-------------------------------------------------------|
-| `assignments/`| Source code and reports for each DBMS component assignment |
+| `Assignments_#`| Source code and reports for each DBMS component assignment |
 
 ### Assignment GROUP 09
 **Students**: Harlee Ramos, Jisun Yun, Baozhu Xie
